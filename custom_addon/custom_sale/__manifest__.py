@@ -4,4 +4,6 @@
     'depends': ['sale'],
     'data': [],
     'installable': True,
+    'license': 'LGPL-3',
+    'author': 'Salman Ali Khan',   
 }

@@ -12,4 +12,6 @@
     ],
     'installable': True,
     'application': False,
+    'license': 'LGPL-3',  
+    'author': 'Salman Ali Khan',
 }
